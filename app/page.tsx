@@ -1,7 +1,7 @@
 import { Header } from "@/components/header"
 import { Hero } from "@/components/hero"
 import { DataFlowAnimation } from "@/components/data-flow-animation"
-import { CapitalJudgmentSection } from "@/components/capital-judgment-section"
+import { CapitalJudgementSection } from "@/components/capital-judgement-section"
 import { InfrastructureSection } from "@/components/infrastructure-section"
 import { FocusSection } from "@/components/focus-section"
 import { ClaritySection } from "@/components/clarity-section"
@@ -21,7 +21,7 @@ export default function HomePage() {
       <main>
         <Hero />
         <DataFlowAnimation />
-        <CapitalJudgmentSection />
+        <CapitalJudgementSection />
         <InfrastructureSection />
         <FocusSection />
         <ClaritySection />
