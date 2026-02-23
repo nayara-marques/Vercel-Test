@@ -34,19 +34,19 @@ export function Header() {
         <NavigationMenu className="hidden lg:flex">
           <NavigationMenuList>
             <NavigationMenuItem>
-              <Link href="/" legacyBehavior passHref>
-                <NavigationMenuLink className="group inline-flex h-10 w-max items-center justify-center rounded-md bg-surface-base px-4 py-2 text-sm font-medium text-content-primary transition-colors hover:text-brand-primary focus:text-brand-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary disabled:pointer-events-none disabled:opacity-50">
+              <NavigationMenuLink asChild>
+                <Link href="/" className="group inline-flex h-10 w-max items-center justify-center rounded-md bg-surface-base px-4 py-2 text-sm font-medium text-content-primary transition-colors hover:text-brand-primary focus:text-brand-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary disabled:pointer-events-none disabled:opacity-50">
                   Home
-                </NavigationMenuLink>
-              </Link>
+                </Link>
+              </NavigationMenuLink>
             </NavigationMenuItem>
 
             <NavigationMenuItem>
-              <Link href="/product" legacyBehavior passHref>
-                <NavigationMenuLink className="group inline-flex h-10 w-max items-center justify-center rounded-md bg-surface-base px-4 py-2 text-sm font-medium text-content-primary transition-colors hover:text-brand-primary focus:text-brand-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary disabled:pointer-events-none disabled:opacity-50">
+              <NavigationMenuLink asChild>
+                <Link href="/product" className="group inline-flex h-10 w-max items-center justify-center rounded-md bg-surface-base px-4 py-2 text-sm font-medium text-content-primary transition-colors hover:text-brand-primary focus:text-brand-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary disabled:pointer-events-none disabled:opacity-50">
                   Product
-                </NavigationMenuLink>
-              </Link>
+                </Link>
+              </NavigationMenuLink>
             </NavigationMenuItem>
 
             <NavigationMenuItem>
