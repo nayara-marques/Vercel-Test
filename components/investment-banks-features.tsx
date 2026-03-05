@@ -1,13 +1,12 @@
 export function InvestmentBanksFeatures() {
   const features = [
     {
-      title: "Transaction Evaluation",
-      description:
-        "Clade synthesizes the full transaction record—CIMs, financials, models, diligence reports, management Q&A, and notes—into structured, reviewable intelligence.",
+      title: "The full transaction record. Synthesized, not summarized.",
+      description: "",
       points: [
-        "Rapid transaction summaries grounded in source materials",
-        "Identification of key drivers, assumptions, and open questions",
-        "Early flagging of inconsistencies across materials and versions",
+        "Connect CIMs, financials, models, diligence reports, and management Q&A as a single intelligence layer",
+        "Identify key drivers, assumptions, and open questions automatically",
+        "Flag inconsistencies across materials before they surface at the wrong moment",
       ],
     },
     {
