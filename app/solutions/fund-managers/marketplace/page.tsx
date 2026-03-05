@@ -1,7 +1,6 @@
 import Header from "@/components/header"
 import Footer from "@/components/footer"
 import { MarketplaceHero } from "@/components/marketplace-hero"
-import { MarketplaceVisibilityStatement } from "@/components/marketplace-visibility-statement"
 import { MarketplaceBehaviorChanged } from "@/components/marketplace-behavior-changed"
 import { MarketplaceNotDatabase } from "@/components/marketplace-not-database"
 import { MarketplaceDiscovery } from "@/components/marketplace-discovery"
@@ -18,7 +17,6 @@ export default function MarketplacePage() {
       <Header />
       <main>
         <MarketplaceHero />
-        <MarketplaceVisibilityStatement />
         <MarketplaceBehaviorChanged />
         <MarketplaceNotDatabase />
         <MarketplaceDiscovery />
