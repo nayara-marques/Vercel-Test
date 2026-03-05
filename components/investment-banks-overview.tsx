@@ -4,7 +4,7 @@ export function InvestmentBanksOverview() {
       <div className="container mx-auto max-w-[1456px] px-6">
         <div className="mx-auto max-w-4xl">
           <h2 className="font-sans text-3xl font-medium leading-tight tracking-tight text-content-primary md:text-4xl text-balance">
-            Clade turns transaction volume into durable institutional intelligence.
+            From transaction volume to durable institutional intelligence.
           </h2>
           <div className="mt-10 space-y-4">
             <p className="font-sans text-lg leading-relaxed text-content-secondary">Investment banks use Clade to:</p>
