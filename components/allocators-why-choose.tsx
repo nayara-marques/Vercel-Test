@@ -4,10 +4,6 @@ export default function AllocatorsWhyChoose() {
   return (
     <section className="bg-surface-primary py-24">
       <div className="container mx-auto max-w-[1456px] px-6">
-        <h2 className="font-sans text-4xl md:text-5xl font-medium text-content-primary mb-12 text-center">
-          Why allocators choose Clade
-        </h2>
-
         <div className="grid md:grid-cols-2 gap-12 items-center">
           {/* Placeholder image on left */}
           <div className="bg-muted rounded-lg aspect-[4/3] flex items-center justify-center border border-border-subtle">
