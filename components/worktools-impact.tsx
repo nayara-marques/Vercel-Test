@@ -3,7 +3,7 @@ export default function WorktoolsImpact() {
     <section className="border-b border-border-subtle bg-surface-elevated">
       <div className="mx-auto max-w-[1456px] px-6 py-20">
         <h2 className="mb-12 text-center font-sans text-3xl font-medium leading-tight tracking-tight text-content-primary md:text-4xl">
-          What changes after Clade
+          What changes with Clade
         </h2>
         <div className="mx-auto grid max-w-4xl gap-8 md:grid-cols-2">
           <div className="rounded-lg border border-border-subtle bg-background p-8">
