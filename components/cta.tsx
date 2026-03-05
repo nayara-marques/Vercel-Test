@@ -6,7 +6,7 @@ export function CTA() {
       <div className="max-w-[1456px] mx-auto px-5 sm:px-10 2xl:px-0">
         <div className="mx-auto max-w-3xl text-center">
           <h2 className="text-balance font-sans text-3xl font-medium tracking-tight text-content-primary md:text-4xl lg:text-5xl leading-tight">
-            If you invest in complex markets and want data clarity, let's talk.
+            Bring a real fund, deal, or portfolio. We'll show you what Clade produces — using your documents.
           </h2>
 
           <div className="mt-10 flex justify-center">
