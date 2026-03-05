@@ -9,10 +9,10 @@ export function KnowledgeSystemSection() {
             </h2>
             <p className="mt-6 text-pretty font-sans text-lg text-content-secondary md:text-xl leading-relaxed">
               Clade unifies documents, data, and relationships into a single investment workspace, then applies
-              proprietary AI to contextualize it all.
+              purpose-built AI to contextualize it all.
             </p>
             <p className="mt-4 text-pretty font-sans text-base text-content-secondary leading-relaxed italic">
-              Asset-class aware intelligence, purpose-built.
+              Generic AI generates answers. Clade understands asset-classes.
             </p>
           </div>
           <div className="relative aspect-[4/3] bg-muted rounded-lg flex items-center justify-center border border-border-subtle">
