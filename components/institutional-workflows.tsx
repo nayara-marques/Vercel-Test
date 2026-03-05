@@ -71,7 +71,7 @@ export function InstitutionalWorkflows() {
             </div>
           </div>
 
-          {/* Bottom left - Institutional workflows */}
+          {/* Bottom left - Structured extraction */}
           <div className="absolute left-0 bottom-16 max-w-[280px] hidden lg:block">
             <div className="flex items-start gap-3">
               <div className="flex-shrink-0 w-5 h-5 mt-1">
@@ -85,9 +85,9 @@ export function InstitutionalWorkflows() {
                 </svg>
               </div>
               <div>
-                <p className="font-sans text-base font-medium text-content-primary mb-1">Institutional workflows</p>
+                <p className="font-sans text-base font-medium text-content-primary mb-1">Structured extraction</p>
                 <p className="font-sans text-sm text-content-secondary leading-relaxed">
-                  Built for how allocators and managers actually work
+                  Asset class-based data extraction from unstructured documents
                 </p>
               </div>
             </div>
