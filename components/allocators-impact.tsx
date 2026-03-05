@@ -48,7 +48,7 @@ export default function AllocatorsImpact() {
             </div>
             <div className="text-center md:text-right">
               <p className="font-sans text-base md:text-lg text-content-primary leading-relaxed">
-                The diligence archive compounds into an advantage
+                Document archives compound into an advantage
               </p>
             </div>
           </div>
