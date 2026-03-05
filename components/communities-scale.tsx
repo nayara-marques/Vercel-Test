@@ -7,25 +7,20 @@ export default function CommunitiesScale() {
             <span className="text-content-tertiary">Image placeholder</span>
           </div>
           <div>
-            <h2 className="font-sans text-3xl md:text-4xl font-semibold text-content-primary mb-6 text-balance">
-              Institutional relationships don't scale on email.
-            </h2>
-            <p className="text-lg text-content-secondary mb-6 leading-relaxed">
-              Clade Communities replace fragmentation with a shared, intelligent workspace:
+            <div className="space-y-4 mb-8">
+              <p className="font-sans text-xl md:text-2xl font-semibold text-content-primary">
+                Networked knowledge instead of isolated content.
+              </p>
+              <p className="font-sans text-xl md:text-2xl font-semibold text-content-primary">
+                Ongoing collaboration instead of one-off meetings.
+              </p>
+              <p className="font-sans text-xl md:text-2xl font-semibold text-content-primary">
+                AI-enhanced insight instead of manual memory.
+              </p>
+            </div>
+            <p className="text-lg text-content-secondary leading-relaxed">
+              This is how communities stay aligned as they grow — and how the intelligence they generate compounds over time instead of disappearing after every conference.
             </p>
-            <ul className="space-y-4">
-              {[
-                "Networked knowledge instead of isolated content",
-                "Ongoing collaboration instead of one-off meetings",
-                "AI-enhanced insight instead of manual memory",
-              ].map((item, index) => (
-                <li key={index} className="flex gap-3 text-content-secondary">
-                  <span className="text-brand-primary mt-1">•</span>
-                  <span className="leading-relaxed">{item}</span>
-                </li>
-              ))}
-            </ul>
-            <p className="text-content-secondary mt-6 italic">This is how communities stay aligned as they grow.</p>
           </div>
         </div>
       </div>
