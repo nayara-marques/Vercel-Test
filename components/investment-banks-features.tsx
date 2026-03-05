@@ -20,11 +20,11 @@ export function InvestmentBanksFeatures() {
     },
     {
       title: "Deal, Pitch & Marketing Materials",
-      description: "Clade speeds the creation of the materials bankers actually produce.",
+      description: "Accurate, defensible content. Faster.",
       points: [
-        "Draft CIM sections, pitch books, teasers, and transaction summaries directly from the diligence record",
-        "Maintain consistency across CIMs, management presentations, models, and disclosures",
-        "Reduce last-minute revisions caused by missed language, numbers, or assumptions",
+        "Draft pitch materials and transaction summaries in alignment with diligence",
+        "Enforce consistency across CIMs, teasers, and management presentations",
+        "Eliminate last-minute rewrites caused by details that should have been caught earlier",
       ],
     },
     {
