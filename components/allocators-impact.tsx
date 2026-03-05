@@ -4,10 +4,6 @@ export default function AllocatorsImpact() {
   return (
     <section className="bg-surface-elevated py-24">
       <div className="container mx-auto max-w-[1456px] px-6">
-        <h2 className="font-sans text-4xl md:text-5xl font-medium text-content-primary mb-16 text-center">
-          What changes after Clade
-        </h2>
-
         <div className="relative max-w-5xl mx-auto">
           {/* Central circular placeholder */}
           <div className="flex justify-center mb-8">
