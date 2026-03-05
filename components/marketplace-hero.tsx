@@ -7,8 +7,7 @@ export function MarketplaceHero() {
             Where Institutional Capital Now Discovers and Decides.
           </h1>
           <p className="mt-6 text-lg leading-relaxed text-content-secondary">
-            The Clade Marketplace places fund managers inside the AI workflows allocators use every day to research
-            peers, run diligence, and form conviction.
+            The Clade Marketplace places fund managers inside the AI workflows allocators use every day at the exact moment conviction is forming.
           </p>
           <div className="mt-12 grid gap-8 sm:grid-cols-3">
             <div>
