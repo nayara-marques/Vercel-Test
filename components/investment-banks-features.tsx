@@ -14,7 +14,7 @@ export function InvestmentBanksFeatures() {
       description: "Clade helps teams reason across fast-moving deal processes.",
       points: [
         "Maintain a coherent view as materials evolve under time pressure",
-        "Track changes across decks, models, and disclosures",
+        "Track changes across decks, models, and disclosures without losing context",
         "Support fairness opinions, committee reviews, and internal approvals",
       ],
     },
