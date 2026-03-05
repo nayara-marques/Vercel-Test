@@ -8,11 +8,11 @@ export function Hero() {
       <div className="max-w-[1456px] mx-auto px-5 sm:px-10 2xl:px-0">
         <div className="mx-auto max-w-4xl text-center">
           <h1 className="text-balance font-sans text-4xl font-medium tracking-tight text-content-primary md:text-5xl lg:text-6xl leading-[1.1]">
-            Institutional AI for Complex Markets
+            Institutional AI for Capital Decisions
           </h1>
 
           <p className="mx-auto mt-6 max-w-2xl text-pretty font-sans text-lg text-content-secondary md:text-xl leading-relaxed">
-            Investment tools that turn documents and data into decisions — connecting teams and automating workflows.
+            Investment tools that turn documents and data into intelligence, connecting teams and automating workflows.
           </p>
 
           <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:justify-center sm:items-center">
