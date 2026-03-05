@@ -63,7 +63,7 @@ export function InstitutionalWorkflows() {
                 </svg>
               </div>
               <div>
-                <p className="font-sans text-base font-medium text-content-primary mb-1">Asset class intelligence</p>
+                <p className="font-sans text-base font-medium text-content-primary mb-1">Strategy-aware taxonomies</p>
                 <p className="font-sans text-sm text-content-secondary leading-relaxed">
                   Configurable ontologies by strategy and asset class
                 </p>
