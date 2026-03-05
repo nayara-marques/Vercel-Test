@@ -129,7 +129,7 @@ export function InstitutionalWorkflows() {
                 </svg>
               </div>
               <div>
-                <p className="font-sans text-base font-medium text-content-primary mb-1">Entity resolution</p>
+                <p className="font-sans text-base font-medium text-content-primary mb-1">Entity-level coherence</p>
                 <p className="font-sans text-sm text-content-secondary leading-relaxed">
                   Resolution across managers, vehicles, and counterparties
                 </p>
