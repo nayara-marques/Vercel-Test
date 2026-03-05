@@ -17,10 +17,9 @@ export function MarketplaceBehaviorChanged() {
               of their daily work.
             </p>
             <p className="text-lg leading-relaxed text-content-secondary">
-              Clade is the AI system built for this new reality.
-            </p>
-            <p className="text-lg font-medium leading-relaxed text-content-primary">
-              The Marketplace is how fund managers gain exposure inside it.
+              The managers who get evaluated are the ones inside that workflow.
+              <br />
+              The ones who aren't, don't.
             </p>
           </div>
           <div className="flex items-center justify-center rounded-2xl bg-muted aspect-[4/3]">
