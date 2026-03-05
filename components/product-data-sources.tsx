@@ -5,7 +5,7 @@ export function ProductDataSources() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="font-sans text-3xl md:text-4xl font-medium text-content-primary mb-6 text-balance">
-              Every data source. Context compounds.
+              Every data input. Context compounds.
             </h2>
             <p className="font-sans text-lg text-content-secondary leading-relaxed mb-6">
               Clade ingests the full range of deal, fund, and portfolio materials—across documents, communications, and
