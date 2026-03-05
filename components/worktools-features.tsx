@@ -43,7 +43,7 @@ export default function WorktoolsFeatures() {
     <section className="border-b border-border-subtle bg-surface-elevated">
       <div className="mx-auto max-w-[1456px] px-6 py-20">
         <h2 className="mb-16 text-center font-sans text-3xl font-medium leading-tight tracking-tight text-content-primary md:text-4xl">
-          Investment decision infrastructure.
+          Investment decision infrastructure. Built for the people responsible for the outcome.
         </h2>
         <div className="space-y-16">
           {features.map((feature, index) => (
