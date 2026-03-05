@@ -43,9 +43,9 @@ export function ProductFeatures() {
             </p>
           </div>
 
-          {/* Natural-language intelligence */}
+          {/* Natural-language Intelligence */}
           <div>
-            <h3 className="font-sans text-2xl font-medium text-content-primary mb-4">Natural-language intelligence</h3>
+            <h3 className="font-sans text-2xl font-medium text-content-primary mb-4">Natural-language Intelligence</h3>
             <p className="font-sans text-base text-content-secondary leading-relaxed">
               Ask real questions. Get grounded answers. Teams query across documents, notes, meetings, and history using
               natural language without hunting for answers or managing files. Every response remains anchored to source
