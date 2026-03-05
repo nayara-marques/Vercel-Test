@@ -12,22 +12,18 @@ export function MarketplaceNotDatabase() {
 
           {/* Text content on the right */}
           <div>
-            <h2 className="font-sans text-4xl font-medium tracking-tight text-content-primary">
-              Not capital introduction. Not a database.
+            <h2 className="font-sans text-3xl md:text-4xl font-medium tracking-tight text-content-primary leading-tight">
+              The Marketplace lives inside allocator diligence workflows — not alongside them
             </h2>
-            <div className="mt-8 space-y-6">
+            <div className="mt-10 space-y-8">
               <p className="text-lg leading-relaxed text-content-secondary">
-                The Marketplace lives inside allocator diligence workflows.
+                Managers surface while LPs are analyzing peers, pressure-testing strategies, and preparing IC materials—not browsing profiles.
               </p>
-              <p className="text-lg leading-relaxed text-content-secondary">
-                Managers surface while LPs are analyzing peers, pressure-testing strategies, and preparing IC
-                materials—not browsing profiles.
+              <p className="text-xl font-medium leading-relaxed text-content-primary">
+                Not a database. Not capital introduction. Not a profile waiting to be found.
               </p>
-              <p className="text-lg leading-relaxed text-content-secondary">
-                Visibility is driven by AI-structured intelligence grounded in real documents, terms, and disclosures.
-              </p>
-              <p className="text-lg font-medium leading-relaxed text-content-primary">
-                Discovery, diligence, and decision-making happen as one continuous process.
+              <p className="text-lg leading-relaxed text-content-secondary border-l-2 border-accent pl-4">
+                Presence at the moment allocators are digging into investments.
               </p>
             </div>
           </div>
