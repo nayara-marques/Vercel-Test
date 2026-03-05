@@ -7,7 +7,7 @@ export function InfrastructureSection() {
             <div className="flex-1">
               <p className="text-pretty font-sans text-base text-content-secondary leading-relaxed">
                 Pitch decks, PPMs, LPAs, DDQs, purchase agreements, consultant studies, meeting notes, side letters,
-                risk reports, and RFPs span firms, teams, and time.
+                risk reports, and RFPs span firms, teams, and years.
               </p>
               <p className="mt-4 text-pretty font-sans text-base text-content-primary leading-relaxed">
                 Clade connects and reasons across all inputs, turning fragmented materials into structured insight and
