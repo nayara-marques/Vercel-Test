@@ -28,8 +28,8 @@ export function InvestmentBanksFeatures() {
       ],
     },
     {
-      title: "Institutional Memory & Reuse",
-      description: "Clade captures transaction knowledge that normally disappears.",
+      title: "Institutional Memory",
+      description: "Deal knowledge that doesn't disappear.",
       points: [
         "Reuse insights from prior deals without copy-paste",
         "Build internal intelligence across sectors, structures, and clients",
