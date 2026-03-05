@@ -7,10 +7,7 @@ export default function AllocatorsUseCases() {
         <div className="grid md:grid-cols-2 gap-12 items-start">
           {/* Left column - text content */}
           <div>
-            <h2 className="font-sans text-4xl md:text-5xl font-medium text-content-primary mb-6 text-balance">
-              What Clade is used for
-            </h2>
-            <p className="font-sans text-xl text-content-secondary mb-12 text-pretty leading-relaxed">
+            <p className="font-sans text-xl text-content-primary font-bold mb-12 text-pretty leading-relaxed">
               Clade replaces fragmented diligence with a continuous investment intelligence system.
             </p>
 
