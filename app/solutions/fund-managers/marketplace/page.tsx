@@ -8,7 +8,6 @@ import { MarketplaceDiscovery } from "@/components/marketplace-discovery"
 import { MarketplaceGPsShowUp } from "@/components/marketplace-gps-show-up"
 import { MarketplaceEvaluatedSection } from "@/components/marketplace-evaluated-section"
 import { MarketplaceTestimonial } from "@/components/marketplace-testimonial"
-import { MarketplaceRelationships } from "@/components/marketplace-relationships"
 import { MarketplaceCTA } from "@/components/marketplace-cta"
 
 export default function MarketplacePage() {
@@ -24,7 +23,6 @@ export default function MarketplacePage() {
         <MarketplaceGPsShowUp />
         <MarketplaceEvaluatedSection />
         <MarketplaceTestimonial />
-        <MarketplaceRelationships />
         <MarketplaceCTA />
       </main>
       <Footer />
