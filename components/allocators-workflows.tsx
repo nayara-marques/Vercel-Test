@@ -2,10 +2,6 @@ export default function AllocatorsWorkflows() {
   return (
     <section className="bg-surface-elevated py-24">
       <div className="container mx-auto max-w-[1456px] px-6">
-        <h2 className="font-sans text-4xl md:text-5xl font-medium text-content-primary mb-16 text-center">
-          Core allocator workflows
-        </h2>
-
         <div className="grid md:grid-cols-2 gap-12 max-w-6xl mx-auto">
           <div className="space-y-6">
             <h3 className="font-sans text-2xl font-medium text-content-primary">Diligence</h3>
