@@ -61,7 +61,7 @@ export default function AllocatorsWhyChoose() {
       <div className="container mx-auto max-w-[1456px] px-6 mt-24 pt-16 border-t border-border-subtle">
         <div className="grid md:grid-cols-3 gap-8 text-center">
           <p className="font-sans text-xl md:text-2xl text-content-primary font-medium">
-            From raw materials to conviction.
+            All output is grounded.
           </p>
           <p className="font-sans text-xl md:text-2xl text-content-primary font-medium">
             Every conclusion can be traced.
