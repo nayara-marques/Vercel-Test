@@ -6,6 +6,7 @@ import CommunitiesConnectiveTissue from "@/components/communities-connective-tis
 import CommunitiesTrustedNetworks from "@/components/communities-trusted-networks"
 import CommunitiesContinuousEngagement from "@/components/communities-continuous-engagement"
 import CommunitiesAIIntelligence from "@/components/communities-ai-intelligence"
+import CommunitiesAIStatement from "@/components/communities-ai-statement"
 import CommunitiesScale from "@/components/communities-scale"
 import CommunitiesCTA from "@/components/communities-cta"
 
@@ -20,6 +21,7 @@ export default function CommunitiesPage() {
         <CommunitiesTrustedNetworks />
         <CommunitiesContinuousEngagement />
         <CommunitiesAIIntelligence />
+        <CommunitiesAIStatement />
         <CommunitiesScale />
         <CommunitiesCTA />
       </main>
