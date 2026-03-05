@@ -5,7 +5,6 @@ import { MarketplaceBehaviorChanged } from "@/components/marketplace-behavior-ch
 import { MarketplaceDiscoveryDiligence } from "@/components/marketplace-discovery-diligence"
 import { MarketplaceNotDatabase } from "@/components/marketplace-not-database"
 import { MarketplaceDiscovery } from "@/components/marketplace-discovery"
-import { MarketplaceDiscoveryStatement } from "@/components/marketplace-discovery-statement"
 import { MarketplaceGPsShowUp } from "@/components/marketplace-gps-show-up"
 import { MarketplaceEvaluatedSection } from "@/components/marketplace-evaluated-section"
 import { MarketplaceTestimonial } from "@/components/marketplace-testimonial"
@@ -22,7 +21,6 @@ export default function MarketplacePage() {
         <MarketplaceDiscoveryDiligence />
         <MarketplaceNotDatabase />
         <MarketplaceDiscovery />
-        <MarketplaceDiscoveryStatement />
         <MarketplaceGPsShowUp />
         <MarketplaceEvaluatedSection />
         <MarketplaceTestimonial />
