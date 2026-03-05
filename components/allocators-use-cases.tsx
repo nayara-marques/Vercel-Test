@@ -8,7 +8,7 @@ export default function AllocatorsUseCases() {
           {/* Left column - text content */}
           <div>
             <p className="font-sans text-xl text-content-primary font-bold mb-12 text-pretty leading-relaxed">
-              Clade replaces fragmented diligence with a continuous investment intelligence system.
+              From fragmented diligence to continuous investment intelligence.
             </p>
 
             <div className="space-y-8">
