@@ -7,7 +7,7 @@ export function MarketplaceBehaviorChanged() {
         <div className="grid gap-12 lg:grid-cols-2 lg:gap-16 items-center">
           <div className="space-y-6">
             <h2 className="font-sans text-4xl font-medium tracking-tight text-content-primary">
-              Allocator behavior has fundamentally changed.
+              Allocator behavior has permanently changed.
             </h2>
             <p className="text-lg leading-relaxed text-content-secondary">
               Institutional investors and family offices no longer evaluate opportunities document by document.
