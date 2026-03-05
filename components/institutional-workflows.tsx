@@ -93,7 +93,7 @@ export function InstitutionalWorkflows() {
             </div>
           </div>
 
-          {/* Top right - Purpose-built models */}
+          {/* Top right - Purpose-built schema */}
           <div className="absolute right-0 top-8 max-w-[280px] hidden lg:block">
             <div className="flex items-start gap-3">
               <div className="flex-shrink-0 w-5 h-5 mt-1">
@@ -107,7 +107,7 @@ export function InstitutionalWorkflows() {
                 </svg>
               </div>
               <div>
-                <p className="font-sans text-base font-medium text-content-primary mb-1">Purpose-built models</p>
+                <p className="font-sans text-base font-medium text-content-primary mb-1">Purpose-built schema</p>
                 <p className="font-sans text-sm text-content-secondary leading-relaxed">
                   Investment-specific models and context graphs
                 </p>
