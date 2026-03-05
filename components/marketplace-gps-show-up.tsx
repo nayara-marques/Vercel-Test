@@ -16,7 +16,7 @@ export function MarketplaceGPsShowUp() {
               GPs show up where LPs are already deciding.
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-content-secondary">
-              More than 2,000 institutional allocators, representing over $17 trillion in AUM, use Clade to evaluate
+              More than 1,900+ institutional allocators, representing over $17 trillion in AUM, use Clade to evaluate
               investments.
             </p>
             <p className="mt-6 text-lg leading-relaxed text-content-secondary">The Marketplace gives fund managers:</p>
