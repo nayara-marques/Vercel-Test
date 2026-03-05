@@ -13,10 +13,13 @@ export function InvestmentBanksBuiltFor() {
           {/* Content on right */}
           <div>
             <h2 className="font-sans text-3xl font-medium leading-tight tracking-tight text-content-primary md:text-4xl text-balance">
-              Because transaction work breaks general-purpose AI.
+              Transaction work breaks general-purpose AI.
             </h2>
-            <div className="mt-10 space-y-4">
-              <p className="font-sans text-lg leading-relaxed text-content-secondary">Clade is built for:</p>
+            <p className="mt-6 font-sans text-lg leading-relaxed text-content-secondary">
+              The environment is unforgiving: deal velocity is high, materials change daily, and every claim must be grounded in the record. Generic AI wasn't built for this.
+            </p>
+            <div className="mt-8 space-y-4">
+              <p className="font-sans text-lg font-medium leading-relaxed text-content-primary">Clade is built for:</p>
               <ul className="space-y-3 pl-6">
                 <li className="font-sans text-lg leading-relaxed text-content-secondary list-disc">
                   High deal velocity across parallel transactions
