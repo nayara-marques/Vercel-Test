@@ -91,26 +91,28 @@ export default function AllocatorsWorkflows() {
           </div>
 
           <div className="space-y-6">
-            <h3 className="font-sans text-2xl font-medium text-content-primary">IC & Reporting</h3>
-            <p className="font-sans text-lg text-content-secondary leading-relaxed">
-              Clade turns analysis into defensible written output.
-            </p>
+            <div>
+              <h3 className="font-sans text-2xl font-medium text-content-primary">IC & Reporting</h3>
+              <p className="font-sans text-xl font-medium text-content-primary mt-1">
+                Analysis your institution can stand behind.
+              </p>
+            </div>
             <ul className="space-y-4">
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
+                <span className="font-sans text-base text-content-secondary">
                   IC updates, ODD and monitoring memos, and board-ready summaries
                 </span>
               </li>
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
+                <span className="font-sans text-base text-content-secondary">
                   Clear separation of facts, interpretation, and open questions
                 </span>
               </li>
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
+                <span className="font-sans text-base text-content-secondary">
                   Always traceable back to source materials
                 </span>
               </li>
