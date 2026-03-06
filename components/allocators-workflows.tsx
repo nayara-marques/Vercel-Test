@@ -4,27 +4,28 @@ export default function AllocatorsWorkflows() {
       <div className="container mx-auto max-w-[1456px] px-6">
         <div className="grid md:grid-cols-2 gap-12 max-w-6xl mx-auto">
           <div className="space-y-6">
-            <h3 className="font-sans text-2xl font-medium text-content-primary">Diligence</h3>
-            <p className="font-sans text-lg text-content-secondary leading-relaxed">
-              Clade synthesizes the full diligence record—DDQs, decks, LPAs, policies, financials, notes—into structured
-              intelligence.
-            </p>
+            <div>
+              <h3 className="font-sans text-2xl font-medium text-content-primary">Diligence</h3>
+              <p className="font-sans text-xl font-medium text-content-primary mt-1">
+                The full diligence record. Synthesized, not summarized.
+              </p>
+            </div>
             <ul className="space-y-4">
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
-                  Analyze the full corpus of documents, data, and policies as a single diligence record
+                <span className="font-sans text-base text-content-secondary">
+                  Analyze DDQs, decks, LPAs, policies, financials, and notes as a single connected record
                 </span>
               </li>
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
+                <span className="font-sans text-base text-content-secondary">
                   Normalize terms, economics, and governance across funds and vintages
                 </span>
               </li>
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
+                <span className="font-sans text-base text-content-secondary">
                   Expose contradictions, omissions, and embedded risk across materials
                 </span>
               </li>
