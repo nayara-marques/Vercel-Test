@@ -33,26 +33,28 @@ export default function AllocatorsWorkflows() {
           </div>
 
           <div className="space-y-6">
-            <h3 className="font-sans text-2xl font-medium text-content-primary">Legal & Terms Intelligence</h3>
-            <p className="font-sans text-lg text-content-secondary leading-relaxed">
-              Clade understands LPAs, side letters, purchase agreements as a system—not isolated PDFs.
-            </p>
+            <div>
+              <h3 className="font-sans text-2xl font-medium text-content-primary">Legal & Terms Intelligence</h3>
+              <p className="font-sans text-xl font-medium text-content-primary mt-1">
+                LPAs, side letters, and purchase agreements understood as a system — not isolated PDFs.
+              </p>
+            </div>
             <ul className="space-y-4">
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
+                <span className="font-sans text-base text-content-secondary">
                   Compare terms across funds and vintages
                 </span>
               </li>
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
+                <span className="font-sans text-base text-content-secondary">
                   Surface MFN-relevant clauses and edge cases
                 </span>
               </li>
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
+                <span className="font-sans text-base text-content-secondary">
                   Track obligations, discretion, and investor protections over time
                 </span>
               </li>
