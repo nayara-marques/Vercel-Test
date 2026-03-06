@@ -36,7 +36,7 @@ export default function AllocatorsWorkflows() {
             <div>
               <h3 className="font-sans text-2xl font-medium text-content-primary">Legal & Terms Intelligence</h3>
               <p className="font-sans text-xl font-medium text-content-primary mt-1">
-                LPAs, side letters, and purchase agreements understood as a system — not isolated PDFs.
+                Documents understood as a system — not isolated PDFs.
               </p>
             </div>
             <ul className="space-y-4">
