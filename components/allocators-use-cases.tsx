@@ -54,7 +54,7 @@ export default function AllocatorsUseCases() {
 
         <div className="mt-12 pt-8 border-t border-border-subtle">
           <p className="font-sans text-2xl md:text-3xl text-content-primary font-bold text-center">
-            This is infrastructure for institutional investment decisions.
+            Engineered for consequence.
           </p>
         </div>
       </div>
