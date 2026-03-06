@@ -62,24 +62,28 @@ export default function AllocatorsWorkflows() {
           </div>
 
           <div className="space-y-6">
-            <h3 className="font-sans text-2xl font-medium text-content-primary">Portfolio Monitoring</h3>
-            <p className="font-sans text-lg text-content-secondary leading-relaxed">
-              Clade continuously reasons across quarterly letters, updates, calls, and reports.
-            </p>
+            <div>
+              <h3 className="font-sans text-2xl font-medium text-content-primary">Portfolio Monitoring</h3>
+              <p className="font-sans text-xl font-medium text-content-primary mt-1">
+                Know what changed. Know what didn't.
+              </p>
+            </div>
             <ul className="space-y-4">
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">Identify what changed—and what didn't</span>
-              </li>
-              <li className="flex gap-3">
-                <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
+                <span className="font-sans text-base text-content-secondary">
                   Track narratives, promises, exposures, and risk signals by fund
                 </span>
               </li>
               <li className="flex gap-3">
                 <span className="text-brand-primary">•</span>
-                <span className="font-sans text-base text-content-primary">
+                <span className="font-sans text-base text-content-secondary">
+                  Identify shifts early — before they become problems
+                </span>
+              </li>
+              <li className="flex gap-3">
+                <span className="text-brand-primary">•</span>
+                <span className="font-sans text-base text-content-secondary">
                   Prepare sharper questions before every manager interaction
                 </span>
               </li>
