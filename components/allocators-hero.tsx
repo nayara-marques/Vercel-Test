@@ -7,7 +7,7 @@ export default function AllocatorsHero() {
             Institutional AI for allocators. No blind spots.
           </h1>
           <p className="font-sans text-xl md:text-2xl text-content-secondary mb-8 text-pretty leading-relaxed">
-            Clade turns unstructured investment data into a single view of performance, terms, and risk.
+            Clade turns unstructured investment data into a single view that powers your investment workflows.
           </p>
           <button className="bg-brand-primary text-content-on-brand px-8 py-4 rounded-lg font-sans text-lg font-medium hover:opacity-90 transition-opacity">
             Request a demo
