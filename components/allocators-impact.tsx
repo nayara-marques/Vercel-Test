@@ -56,10 +56,8 @@ export default function AllocatorsImpact() {
         </div>
 
         <div className="mt-16 pt-8 border-t border-border-subtle max-w-4xl mx-auto">
-          <p className="font-sans text-xl text-content-primary text-center leading-relaxed">
-            Allocators don't use Clade to do more work.
-            <br />
-            They use it to finally see the work they're already doing—clearly.
+          <p className="font-sans text-xl font-semibold text-content-primary text-center leading-relaxed">
+            Unified data. Automated workflows. Time back.
           </p>
         </div>
       </div>
