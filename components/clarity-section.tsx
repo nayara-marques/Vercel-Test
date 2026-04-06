@@ -17,7 +17,7 @@ export function ClaritySection() {
               Consistency at volume
             </h3>
             <p className="font-sans text-sm md:text-base text-content-secondary leading-relaxed">
-              Data does not drift at scale.
+              Data accuracy does not drift.
             </p>
           </div>
           <div className="flex justify-center">
@@ -77,7 +77,7 @@ export function ClaritySection() {
                   Consistency at volume
                 </h3>
                 <p className="font-sans text-base text-content-secondary leading-relaxed">
-                  Data does not drift at scale.
+                  Data accuracy does not drift.
                 </p>
               </div>
 
