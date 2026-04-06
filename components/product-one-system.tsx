@@ -24,7 +24,7 @@ export function ProductOneSystem() {
               <div className="flex items-start gap-4">
                 <CheckCircle2 className="w-5 h-5 text-brand-primary flex-shrink-0 mt-1" />
                 <p className="font-sans text-base text-content-primary">
-                  Synthesize fund and deal materials into structured intelligence
+                  Transform fund and deal materials into structured data
                 </p>
               </div>
               <div className="flex items-start gap-4">
