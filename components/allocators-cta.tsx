@@ -4,7 +4,7 @@ export default function AllocatorsCTA() {
       <div className="container mx-auto max-w-[1456px] px-6">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="font-sans text-4xl md:text-5xl font-medium text-content-primary mb-6 text-balance">
-            Bring us your hardest diligence problem.
+            Bring us your most time-consuming investment work.
           </h2>
           <p className="font-sans text-xl text-content-secondary mb-8 leading-relaxed">
             A real fund, deal, or portfolio. We'll show you exactly what Clade produces — using your documents, your history, your standards.
