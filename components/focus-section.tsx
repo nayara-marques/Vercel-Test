@@ -7,7 +7,7 @@ export function FocusSection() {
             If the busywork disappeared, where would your team focus?
           </h2>
           <p className="mt-6 text-pretty font-sans text-xl text-content-primary md:text-2xl leading-relaxed">
-            Judgement. Relationships. Conviction.
+            Returns. Relationships. Conviction.
           </p>
         </div>
       </div>
