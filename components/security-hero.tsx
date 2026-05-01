@@ -7,7 +7,7 @@ export default function SecurityHero() {
             Trust, Engineered
           </h1>
           <p className="font-sans text-xl md:text-2xl text-content-secondary mb-8 text-pretty leading-relaxed">
-            Built for institutions that don&apos;t compromise on security, control, or data ownership.
+            Clade secures your data, workflows, and decisions with institutional-grade controls.
           </p>
           <button className="bg-brand-primary text-content-on-brand px-8 py-4 rounded-lg font-sans text-lg font-medium hover:opacity-90 transition-opacity">
             Request a demo
