@@ -1,33 +1,33 @@
 const features = [
   {
-    title: "No training on your data.",
+    title: "Your data is never used for training.",
     description:
-      "Your documents, conversations, and outputs are never used to train Clade's models — or any third party's.",
+      "Documents, inputs, queries, and outputs are never used to train Clade's models or any third-party models.",
   },
   {
-    title: "Isolated by tenant.",
+    title: "Strict tenant isolation.",
     description:
-      "Customer data is logically isolated at every layer. Nothing crosses the boundary between tenants.",
+      "Customer data is isolated at every layer. No data is shared across environments. Nothing crosses tenant boundaries.",
   },
   {
-    title: "Full audit visibility.",
+    title: "Complete audit visibility.",
     description:
-      "Every query, document access, and output is logged. Export complete audit trails on demand.",
+      "Every query, document access, and output is logged. Export full audit trails on demand with complete lineage.",
   },
   {
-    title: "Zero-trust access.",
+    title: "Zero-trust access by default.",
     description:
-      "Role-based permissions, least privilege by default, and MFA enforced across the platform.",
+      "Role-based permissions, least privilege enforced, and MFA across the platform. Access is explicit, never assumed.",
   },
   {
-    title: "Encrypted in transit and at rest.",
+    title: "Encryption without compromise.",
     description:
-      "TLS 1.3 across all network traffic. AES-256 at rest. Keys rotated on industry-standard cadence.",
+      "TLS 1.3 for all data in transit. AES-256 at rest. Encryption keys are rotated on a strict schedule.",
   },
   {
-    title: "Independently audited.",
+    title: "Independently validated.",
     description:
-      "SOC 2 Type II certified. Annual third-party penetration testing. Continuous vulnerability scanning.",
+      "SOC 2 Type II certified. Annual third-party penetration testing. Continuous monitoring and vulnerability detection.",
   },
 ]
 
