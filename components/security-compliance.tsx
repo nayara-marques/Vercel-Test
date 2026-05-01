@@ -5,7 +5,7 @@ export default function SecurityCompliance() {
         {/* Heading */}
         <div className="text-center mb-16">
           <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-medium text-white">
-            Compliant with
+            Built to Meet
           </h2>
           <p className="font-serif text-4xl md:text-5xl lg:text-6xl font-medium text-content-tertiary italic">
             Industry Standards
