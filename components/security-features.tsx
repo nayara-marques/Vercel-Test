@@ -15,9 +15,9 @@ const features = [
       "Every query, document access, and output is logged. Export full audit trails on demand with complete lineage.",
   },
   {
-    title: "Zero-trust access by default.",
+    title: "Role-based, least-privilege access.",
     description:
-      "Role-based permissions, least privilege enforced, and MFA across the platform. Access is explicit, never assumed.",
+      "Customer data is protected through tightly controlled permissions, with MFA for privileged access and fully auditable production controls.",
   },
   {
     title: "Encryption without compromise.",
