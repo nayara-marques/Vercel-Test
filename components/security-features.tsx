@@ -10,9 +10,9 @@ const features = [
       "Customer data is logically isolated by tenant. No data is shared across environments, and access is tightly controlled.",
   },
   {
-    title: "Complete audit visibility.",
+    title: "Auditable by design.",
     description:
-      "Every query, document access, and output is logged. Export full audit trails on demand with complete lineage.",
+      "Security-relevant activity and production access are logged and auditable.",
   },
   {
     title: "Role-based, least-privilege access.",
