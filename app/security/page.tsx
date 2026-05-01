@@ -1,4 +1,5 @@
 import SecurityHero from "@/components/security-hero"
+import SecurityFeatures from "@/components/security-features"
 
 export const metadata = {
   title: "Security | Clade",
@@ -9,6 +10,7 @@ export default function SecurityPage() {
   return (
     <main>
       <SecurityHero />
+      <SecurityFeatures />
     </main>
   )
 }
