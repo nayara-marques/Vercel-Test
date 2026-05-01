@@ -113,6 +113,14 @@ export function Header() {
             </NavigationMenuItem>
 
             <NavigationMenuItem>
+              <Link href="/security" legacyBehavior passHref>
+                <NavigationMenuLink className="group inline-flex h-10 w-max items-center justify-center rounded-md bg-surface-base px-4 py-2 text-sm font-medium text-content-primary transition-colors hover:text-brand-primary focus:text-brand-primary focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary disabled:pointer-events-none disabled:opacity-50">
+                  Security
+                </NavigationMenuLink>
+              </Link>
+            </NavigationMenuItem>
+
+            <NavigationMenuItem>
               <NavigationMenuTrigger>Company</NavigationMenuTrigger>
               <NavigationMenuContent>
                 <ul className="w-[200px] p-2">
@@ -236,6 +244,14 @@ export function Header() {
                 Communities
               </Link>
             </div>
+
+            <Link
+              href="/security"
+              className="block rounded-lg px-3 py-2 text-base font-medium text-content-primary hover:bg-surface-muted transition-colors"
+              onClick={() => setMobileMenuOpen(false)}
+            >
+              Security
+            </Link>
 
             <div className="space-y-2">
               <div className="px-3 text-sm font-semibold text-content-tertiary">Company</div>
