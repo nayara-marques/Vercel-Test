@@ -7,7 +7,7 @@ const features = [
   {
     title: "Strict tenant isolation.",
     description:
-      "Customer data is isolated at every layer. No data is shared across environments. Nothing crosses tenant boundaries.",
+      "Customer data is logically isolated by tenant. No data is shared across environments, and access is tightly controlled.",
   },
   {
     title: "Complete audit visibility.",
