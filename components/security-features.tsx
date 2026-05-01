@@ -22,7 +22,7 @@ const features = [
   {
     title: "Encryption without compromise.",
     description:
-      "TLS 1.3 for all data in transit. AES-256 at rest. Encryption keys are rotated on a strict schedule.",
+      "Data is encrypted in transit using TLS and at rest with AES-256, with keys rotated on a regular schedule.",
   },
   {
     title: "Independently validated.",
