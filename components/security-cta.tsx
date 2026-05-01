@@ -6,7 +6,7 @@ export default function SecurityCTA() {
           For teams entrusted with sensitive data, security is non-negotiable.
         </h2>
         <button className="bg-brand-primary text-content-on-brand px-10 py-4 rounded-full font-sans text-lg font-medium hover:opacity-90 transition-opacity">
-          Explore Clade
+          Book a Demo
         </button>
       </div>
     </section>
