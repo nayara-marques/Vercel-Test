@@ -6,9 +6,7 @@ export default function SecurityPhilosophy() {
           {/* Left side - Heading */}
           <div>
             <h2 className="font-serif text-4xl md:text-5xl font-medium text-content-primary leading-tight">
-              Security Built In.
-              <br />
-              Not Bolted On.
+              Security Without Compromise.
             </h2>
           </div>
 
